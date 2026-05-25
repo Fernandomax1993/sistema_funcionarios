@@ -1,8 +1,8 @@
-funcionarios = []
+funcionarios = [] 
 
 while True:
     print("\n===================================")
-    print("   SISTEMA DE FUNCIONÁRIOS")
+    print("   SISTEMA DE FUNCIONÁRIOS ")
     print("===================================")
 
     print("1 - Cadastrar")
